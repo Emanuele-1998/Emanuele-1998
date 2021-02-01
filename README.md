@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/_emanuelepietropaolo_/)
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/AnimaMusic1998)
 
-## HackintoshItalia (<a href="https://www.hackintoshitalia.it/"><b>Hackintosh</b></a>)
+## HackintoshItalia (<a href="https://www.hackintoshitalia.it/"><b>Website</b></a>)
 
 
 `Founder of Hackintosh Italia`)
@@ -26,7 +26,7 @@
 
 ## Stats
 
-[![Anima's github stats](https://github-readme-stats.vercel.app/api?username=AnimaMusic1998)](https://github.com/anuraghazra/github-readme-stats)
+[![Emanuele's github stats](https://github-readme-stats.vercel.app/api?username=Emanuele-1998)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Projects
