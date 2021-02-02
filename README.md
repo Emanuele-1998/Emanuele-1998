@@ -35,7 +35,7 @@ List of projects I made with love
 
 | Name | Category | Description | Links |
 | --- | :---: | --- | --- |  
-| <a href="https://www.hackintoshitalia.it/"><b>Hackintosh</b></a> | [![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6)]() | 🍎☠️ My hackintosh configuration files | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)]("https://www.hackintoshitalia.it/) </td></tr></table> | 
+| <a href="https://www.hackintoshitalia.it/"><b>Hackintosh</b></a> | [![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6)]() | 🍎☠️ Hackintosh Italia | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.hackintoshitalia.it/) </td></tr></table> | 
 <hr>
 </div>
 
